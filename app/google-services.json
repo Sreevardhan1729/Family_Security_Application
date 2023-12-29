@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "460145026968",
+    "project_id": "stellar-lock-402718",
+    "storage_bucket": "stellar-lock-402718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460145026968:android:06be3fea541a805eeceded",
+        "android_client_info": {
+          "package_name": "com.example.six_fam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460145026968-6ci3f7q8pt9lake13a6l1k9ad727c9cp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.six_fam",
+            "certificate_hash": "a365192b4305d12ebd84755c715fc82e6675028b"
+          }
+        },
+        {
+          "client_id": "460145026968-e9tbbdl3b4ln35c7r864lfs9igm59tka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbKZGyNCJ1mQek60CEX0UqpJTzXr1JFEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460145026968-e9tbbdl3b4ln35c7r864lfs9igm59tka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

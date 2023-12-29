@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Safety</string>
+    <string name="security">Security</string>
+    <string name="guard">GUARD</string>
+    <string name="my_family">My Family</string>
+    <string name="user_profile">User Profile</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="chinnu">Chinnu</string>
+    <string name="sree_vardhan">Sree Vardhan</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="default_web_client_id_auth_auth">460145026968-e9tbbdl3b4ln35c7r864lfs9igm59tka.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
